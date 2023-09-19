@@ -1,0 +1,41 @@
+ █████╗ ██╗    ██╗███████╗    ██╗   ██╗██████╗  ██████╗
+██╔══██╗██║    ██║██╔════╝    ██║   ██║██╔══██╗██╔════╝
+███████║██║ █╗ ██║███████╗    ██║   ██║██████╔╝██║     
+██╔══██║██║███╗██║╚════██║    ╚██╗ ██╔╝██╔═══╝ ██║     
+██║  ██║╚███╔███╔╝███████║     ╚████╔╝ ██║     ╚██████╗
+╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝      ╚═══╝  ╚═╝      ╚═════╝
+#########################################################
+
+==========
+ Contents
+==========
+
+- Introduction 
+- IVP4 Addressing Primer 
+- Amazon VPC Overview 
+- Defining VPC CIDR Blocks 
+- VPC Wizard 
+- Create a Custom VPC with Subnets 
+- Launch instances and Test VPC 
+- Security Groups and Network ACL 
+- Configuring Security groups and ACL 
+- Amazon VPC Peering 
+- Configure VPC Peering 
+- VPC Endpoints 
+- Create VPC Endpoints 
+- AWS Client VPN 
+- AWS Site-to-Site VPN 
+- AWS VPN CloudHub 
+- AWS Direct Connect (DX)
+- AWS Direct Connect Gateway 
+- AWS Transit Gateway 
+- Using IPV6 in a VPC 
+- Create VPC Flow Logs
+
+IPV4 Primer 
+
+- Ipv4 is an address to identify a device in a network 
+- Using IPV4 address, the computers are able to communicate with each other 
+- A DNS -  Known as a Domain Name System is a library which holds all the address 
+- The address format is known as dotted decimal notation 
+- Binary Octet  - 8 values where it has most significant bit 
